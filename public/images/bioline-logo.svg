@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" role="img" aria-label="BioLine">
+  <title>BioLine</title>
+  <g fill="none" stroke="#0757bd" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M54 97 76 154" stroke-width="17"/>
+    <path d="M102 90 155 178c7 12 25 9 28-4 1-4 0-8-2-12l-38-82c-7-15-29-13-34 3-2 6-1 12 2 17l51 111" stroke-width="22"/>
+    <path d="M176 90 228 178c7 12 25 9 28-4 1-4 0-8-2-12l-39-82c-7-15-29-13-34 3-2 6-1 12 2 17l48 104" stroke-width="22"/>
+  </g>
+  <text x="270" y="165"
+        fill="#0757bd"
+        font-family="Inter, Arial, Helvetica, sans-serif"
+        font-size="126"
+        font-weight="800"
+        letter-spacing="-5">BioLine</text>
+</svg>
